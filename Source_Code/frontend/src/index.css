@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+* {
+  box-sizing: border-box;
+ }
+:root {
+  box-sizing: border-box;
+}
+body {
+  box-sizing: inherit;
+  background-color: rgb(241,245,241)
+}
